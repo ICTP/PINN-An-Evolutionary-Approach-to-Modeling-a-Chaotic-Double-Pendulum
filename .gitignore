@@ -1,0 +1,8 @@
+*pycache*
+data
+models
+*.csv
+*.pdf
+*.pptx
+description.md
+*challenge*

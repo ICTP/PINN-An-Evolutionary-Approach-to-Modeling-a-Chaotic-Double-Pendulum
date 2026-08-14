@@ -2,7 +2,7 @@
 data
 models
 *.csv
-*.pdf
+*1.pdf
 *.pptx
 description.md
 *challenge*
